@@ -9,7 +9,7 @@
 #1
 
 def main():
-    lines = int(input("Enter no.of lines: "))
+    lines = int(input("Enter no.of lines you want generated: "))
     pattern(lines)
 
 def pattern(lines):
